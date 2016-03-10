@@ -1,3 +1,8 @@
 # JSON_Exercise
 
-test
+3/10/16
+Initial Upload: I created a previous java object serialization project, but realized I didn't use JSON. This project uses JSON to take a java object and convert it to a JSON string that the user gives.
+
+This project uses the json-simple.jar which is used as a referenced library.
+
+This is tested and working.
